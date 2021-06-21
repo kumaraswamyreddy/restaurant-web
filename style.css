@@ -126,7 +126,7 @@ header{
     left: 0;
     top: 1;
     width: 100%;
-    padding: 30px 70px;
+    padding: 20px 70px;
     z-index: 10000;
     display: flex;
     justify-content: space-between;
@@ -136,7 +136,8 @@ header{
 
 header.sticky{
     background: #fff;
-    padding: 8px 70px;
+    padding: 2px 70px;
+    top: 0;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
 }
 
@@ -215,7 +216,7 @@ header.sticky .navigation li a:hover{
     margin: 20px 5%;
     border: 2px solid #d3d3d3;
     display: inline-block;
-    background: #dcdcdc;
+    background: #f0f8ff;
 }
 
 .text-block1 .comBr a{

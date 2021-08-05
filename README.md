@@ -10,7 +10,7 @@ Restaurant-web is a simple restaurant website template, build with HTML and CSS.
 </ul>
 
 # Author
-<a href="https://github.com/kumaraswamyreddy">Reddy Kumaraswamy</a> (author)
+<a href="https://github.com/reddykumaraswamy">Reddy Kumaraswamy</a> (author)
 
 # Website Look - Image
 <img src="img/Project 1.jpeg">
